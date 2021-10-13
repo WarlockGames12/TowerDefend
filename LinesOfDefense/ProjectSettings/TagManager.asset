@@ -3,15 +3,22 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Dirt
+  - Grass
+  - Walls
+  - Turret
+  - Enemy
+  - Bullet
+  - Arrow
   layers:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - 
+  - Tiles
   - Water
   - UI
-  - 
+  - Bullet
   - 
   - 
   - 
